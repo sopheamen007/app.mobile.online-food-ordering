@@ -1,4 +1,6 @@
-# food_ui_ordering
+# Food Ordering App UI
+
+![Food App](https://user-images.githubusercontent.com/16510597/93414772-2ff7b080-f8cc-11ea-8fb4-e0f6e1e52f98.jpg)
 
 A new Flutter project.
 
